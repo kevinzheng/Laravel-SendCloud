@@ -1,20 +1,20 @@
 {
-    "name": "naux/sendcloud",
+    "name": "kevinzheng/laravel-sendcloud",
     "license": "MIT",
     "authors": [
         {
-            "name": "NauxLiu",
-            "email": "nauxliu@gmail.com"
+            "name": "Kevin Zheng",
+            "email": "realkvz@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.6",
-        "illuminate/support": "^5.1",
-        "guzzlehttp/guzzle": "^6.1"
+        "illuminate/support": "5.*",
+        "guzzlehttp/guzzle": "6.*"
     },
     "autoload": {
         "psr-4": {
-            "Naux\\Mail\\": "src/"
+            "KVZ\\Laravel\\Mail\\": "src/"
         }
     }
 }

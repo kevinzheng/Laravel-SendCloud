@@ -1,6 +1,6 @@
 <?php
 
-namespace Naux\Mail;
+namespace KVZ\Laravel\Mail;
 
 use GuzzleHttp\Client;
 use Illuminate\Mail\Transport\Transport;

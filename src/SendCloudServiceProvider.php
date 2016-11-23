@@ -5,7 +5,7 @@
  * Date: 11/19/15
  * Time: 9:42 AM.
  */
-namespace Naux\Mail;
+namespace KVZ\Laravel\Mail;
 
 use Illuminate\Mail\TransportManager;
 use Illuminate\Support\ServiceProvider;

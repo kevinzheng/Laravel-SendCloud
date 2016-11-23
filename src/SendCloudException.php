@@ -5,7 +5,7 @@
  * Date: 11/19/15
  * Time: 12:01 PM.
  */
-namespace Naux\Mail;
+namespace KVZ\Laravel\Mail;
 
 use Exception;
 
